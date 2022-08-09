@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwesy
-- 👀 I’m interested in ML/AI, Robotics, web dev
-- 💞️ I’m looking forward to collaborating on any tech projects
+- 👀 I’m interested in ML/AI, Robotics, web dev and cybersecurity.
+- 💞️ I look forward to collaborating with you on any tech projects.
 - 📫 How to reach me:- onesimusgravessampson1@gmail.com
 
 <!---
